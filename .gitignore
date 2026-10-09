@@ -1,0 +1,17 @@
+﻿# Сборка
+*.exe
+*.o
+*.obj
+
+# Кэш карт и фото
+acars_tiles/
+sasplanet/
+aircraft_photos/
+
+# Логи и локальные настройки
+acars_logs/
+acars_log.jsonl
+acars_settings.ini
+
+# Большие базы (90 МБ)
+aircraft_db.csv
